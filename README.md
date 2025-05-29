@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SrinivasSuthapalli
+- 👋 Hi, I’m @DimpuSatya
 - 👀 I’m interested in frontend developer
 - 🌱 I’m proficient in Angular and ReactJS
 - 📫 How to reach me dimpusatyasrinivassuthapalli@gmail.com

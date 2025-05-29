@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SrinivasSuthapalli
 - 👀 I’m interested in frontend developer
-- 🌱 I’m currently learning Angular and ReactJS
+- 🌱 I’m proficient in Angular and ReactJS
 - 📫 How to reach me srinivassuthapalli50@gmail.com
 
 <!---
